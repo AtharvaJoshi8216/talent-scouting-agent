@@ -130,6 +130,7 @@ streamlit run app.py
 ## 🌐 Demo
 
 👉 Demo Video: https://www.loom.com/share/e3af3c3f36574fe1b4d6e36c0e87f584
+
 👉 GitHub Repository: https://github.com/AtharvaJoshi8216/talent-scouting-agent
 
 ---
