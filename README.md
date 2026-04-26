@@ -4,6 +4,8 @@
 
 The AI Talent Scouting Agent is an intelligent recruitment assistant that automates the end-to-end hiring pipeline. It parses job descriptions, matches candidates based on skills and experience, simulates candidate engagement, and generates an explainable ranked shortlist.
 
+This system mimics real recruiter decision-making by combining technical fit with candidate intent.
+
 Unlike traditional systems that rely only on keyword matching, this solution incorporates candidate intent and provides transparent, recruiter-like decision-making.
 
 ---
@@ -99,7 +101,7 @@ Looking for a Data Analyst with SQL, Excel, and Data Visualization skills.
 * Streamlit
 * OpenAI API
 * Pandas
-* python-dotenv
+* Python-dotenv
 
 ---
 
@@ -117,6 +119,7 @@ pip install -r requirements.txt
 
 # Create .env file and add your API key
 # OPENAI_API_KEY=your-api-key
+Note: The application requires an OpenAI API key to function.
 
 # Generate dataset
 python process_data.py
