@@ -107,7 +107,7 @@ Looking for a Data Analyst with SQL, Excel, and Data Visualization skills.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/talent-scouting-agent.git
+git clone https://github.com/AtharvaJoshi8216/talent-scouting-agent.git
 
 # Navigate to project folder
 cd talent-scouting-agent
@@ -129,8 +129,8 @@ streamlit run app.py
 
 ## 🌐 Demo
 
-👉 Demo Video: *(Add your link here)*
-👉 GitHub Repository: *(This repository)*
+👉 Demo Video: https://www.loom.com/share/e3af3c3f36574fe1b4d6e36c0e87f584
+👉 GitHub Repository: https://github.com/AtharvaJoshi8216/talent-scouting-agent
 
 ---
 
