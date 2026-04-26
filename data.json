@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Natasha Turner",
+    "skills": [
+      "REST API",
+      "Kubernetes",
+      "Git",
+      "C++",
+      "Docker"
+    ],
+    "experience": 4,
+    "role": "Financial Analyst",
+    "location": "Pune",
+    "expected_salary": "10 LPA",
+    "notice_period": "15 days",
+    "personality": "open to startups"
+  },
+  {
+    "name": "Charles Mathews",
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "Git",
+      "Spring Boot",
+      "C++"
+    ],
+    "experience": 6,
+    "role": "Software Engineer",
+    "location": "Bangalore",
+    "expected_salary": "8 LPA",
+    "notice_period": "15 days",
+    "personality": "open to startups"
+  },
+  {
+    "name": "Andrew Perez",
+    "skills": [
+      "Docker",
+      "OOP",
+      "Spring Boot",
+      "Git",
+      "REST API"
+    ],
+    "experience": 2,
+    "role": "Software Engineer",
+    "location": "Hyderabad",
+    "expected_salary": "12 LPA",
+    "notice_period": "60 days",
+    "personality": "growth-focused"
+  },
+  {
+    "name": "Jennifer Burke",
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "Java",
+      "Microservices",
+      "OOP"
+    ],
+    "experience": 7,
+    "role": "Software Engineer",
+    "location": "Mumbai",
+    "expected_salary": "10 LPA",
+    "notice_period": "30 days",
+    "personality": "open to startups"
+  },
+  {
+    "name": "Stephanie Spencer",
+    "skills": [
+      "Content Strategy",
+      "Market Research",
+      "Branding",
+      "SEO",
+      "Google Analytics"
+    ],
+    "experience": 8,
+    "role": "Marketing Manager",
+    "location": "Hyderabad",
+    "expected_salary": "10 LPA",
+    "notice_period": "30 days",
+    "personality": "seeks high salary"
+  },
+  {
+    "name": "Melinda Knight",
+    "skills": [
+      "Google Analytics",
+      "SEO",
+      "Social Media",
+      "SEM",
+      "Lead Generation"
+    ],
+    "experience": 3,
+    "role": "Marketing Manager",
+    "location": "Pune",
+    "expected_salary": "6 LPA",
+    "notice_period": "15 days",
+    "personality": "growth-focused"
+  },
+  {
+    "name": "Thomas Hobbs",
+    "skills": [
+      "SQL",
+      "Accounting",
+      "Tableau",
+      "Excel",
+      "Valuation"
+    ],
+    "experience": 1,
+    "role": "Financial Analyst",
+    "location": "Bangalore",
+    "expected_salary": "8 LPA",
+    "notice_period": "60 days",
+    "personality": "seeks high salary"
+  },
+  {
+    "name": "Joshua Carter",
+    "skills": [
+      "Python",
+      "Kubernetes",
+      "Docker",
+      "Microservices",
+      "Java"
+    ],
+    "experience": 6,
+    "role": "Software Engineer",
+    "location": "Mumbai",
+    "expected_salary": "12 LPA",
+    "notice_period": "60 days",
+    "personality": "prefers stability"
+  },
+  {
+    "name": "Micheal Rivera",
+    "skills": [
+      "Lead Generation",
+      "Social Media",
+      "SEO",
+      "Branding",
+      "SEM"
+    ],
+    "experience": 5,
+    "role": "Marketing Manager",
+    "location": "Mumbai",
+    "expected_salary": "8 LPA",
+    "notice_period": "15 days",
+    "personality": "growth-focused"
+  },
+  {
+    "name": "James Larson",
+    "skills": [
+      "REST API",
+      "Kubernetes",
+      "Git",
+      "OOP",
+      "Python"
+    ],
+    "experience": 2,
+    "role": "Software Engineer",
+    "location": "Hyderabad",
+    "expected_salary": "8 LPA",
+    "notice_period": "30 days",
+    "personality": "open to startups"
+  },
+  {
+    "name": "Randy Macdonald",
+    "skills": [
+      "Employee Engagement",
+      "Talent Acquisitio",
+      "Performance Management",
+      "Recruitment",
+      "Compliance"
+    ],
+    "experience": 8,
+    "role": "HR Executive",
+    "location": "Mumbai",
+    "expected_salary": "12 LPA",
+    "notice_period": "30 days",
+    "personality": "open to startups"
+  },
+  {
+    "name": "Douglas Weber",
+    "skills": [
+      "Git",
+      "Java",
+      "Microservices",
+      "Python",
+      "Spring Boot"
+    ],
+    "experience": 8,
+    "role": "Software Engineer",
+    "location": "Pune",
+    "expected_salary": "10 LPA",
+    "notice_period": "15 days",
+    "personality": "seeks high salary"
+  },
+  {
+    "name": "Linda Stone",
+    "skills": [
+      "Docker",
+      "OOP",
+      "REST API",
+      "Spring Boot",
+      "C++"
+    ],
+    "experience": 7,
+    "role": "Software Engineer",
+    "location": "Mumbai",
+    "expected_salary": "6 LPA",
+    "notice_period": "60 days",
+    "personality": "open to startups"
+  },
+  {
+    "name": "Jeffrey Gonzalez",
+    "skills": [
+      "C++",
+      "Microservices",
+      "Docker",
+      "Spring Boot",
+      "REST API"
+    ],
+    "experience": 5,
+    "role": "Software Engineer",
+    "location": "Mumbai",
+    "expected_salary": "8 LPA",
+    "notice_period": "15 days",
+    "personality": "seeks high salary"
+  },
+  {
+    "name": "Brian Thompson",
+    "skills": [
+      "Spring Boot",
+      "REST API",
+      "Docker",
+      "Git",
+      "C++"
+    ],
+    "experience": 0,
+    "role": "Software Engineer",
+    "location": "Mumbai",
+    "expected_salary": "6 LPA",
+    "notice_period": "60 days",
+    "personality": "growth-focused"
+  },
+  {
+    "name": "Meagan Orozco",
+    "skills": [
+      "Python",
+      "C++",
+      "Git",
+      "Spring Boot",
+      "Microservices"
+    ],
+    "experience": 0,
+    "role": "Software Engineer",
+    "location": "Hyderabad",
+    "expected_salary": "8 LPA",
+    "notice_period": "30 days",
+    "personality": "growth-focused"
+  },
+  {
+    "name": "Heather Jackson",
+    "skills": [
+      "C++",
+      "Spring Boot",
+      "REST API",
+      "Docker",
+      "OOP"
+    ],
+    "experience": 1,
+    "role": "Software Engineer",
+    "location": "Bangalore",
+    "expected_salary": "10 LPA",
+    "notice_period": "30 days",
+    "personality": "growth-focused"
+  },
+  {
+    "name": "Thomas Garcia",
+    "skills": [
+      "Machine Learning",
+      "Data Visualization",
+      "Statistics",
+      "NumPy",
+      "NLP"
+    ],
+    "experience": 5,
+    "role": "Financial Analyst",
+    "location": "Bangalore",
+    "expected_salary": "6 LPA",
+    "notice_period": "60 days",
+    "personality": "prefers stability"
+  },
+  {
+    "name": "Robert Aguilar",
+    "skills": [
+      "SEO",
+      "Branding",
+      "Lead Generation",
+      "SEM",
+      "Market Research"
+    ],
+    "experience": 7,
+    "role": "Financial Analyst",
+    "location": "Mumbai",
+    "expected_salary": "6 LPA",
+    "notice_period": "30 days",
+    "personality": "growth-focused"
+  },
+  {
+    "name": "Jeffery Moore",
+    "skills": [
+      "Kubernetes",
+      "Java",
+      "Git",
+      "Microservices",
+      "Spring Boot"
+    ],
+    "experience": 4,
+    "role": "Software Engineer",
+    "location": "Pune",
+    "expected_salary": "8 LPA",
+    "notice_period": "15 days",
+    "personality": "open to startups"
+  },
+  {
+    "name": "Jennifer Ward",
+    "skills": [
+      "TensorFlow",
+      "Statistics",
+      "SQL",
+      "Data Visualization",
+      "NumPy"
+    ],
+    "experience": 1,
+    "role": "Data Scientist",
+    "location": "Hyderabad",
+    "expected_salary": "12 LPA",
+    "notice_period": "30 days",
+    "personality": "prefers stability"
+  },
+  {
+    "name": "Laurie Phillips",
+    "skills": [
+      "Market Research",
+      "Social Media",
+      "Content Strategy",
+      "Branding",
+      "SEM"
+    ],
+    "experience": 7,
+    "role": "Marketing Manager",
+    "location": "Pune",
+    "expected_salary": "6 LPA",
+    "notice_period": "15 days",
+    "personality": "seeks high salary"
+  },
+  {
+    "name": "Alexander Perez",
+    "skills": [
+      "NLP",
+      "Machine Learning",
+      "Pandas",
+      "SQL",
+      "Data Visualization"
+    ],
+    "experience": 0,
+    "role": "Data Scientist",
+    "location": "Mumbai",
+    "expected_salary": "6 LPA",
+    "notice_period": "60 days",
+    "personality": "growth-focused"
+  },
+  {
+    "name": "Tyler Howard",
+    "skills": [
+      "OOP",
+      "Python",
+      "Java",
+      "Microservices",
+      "Kubernetes"
+    ],
+    "experience": 5,
+    "role": "Data Scientist",
+    "location": "Pune",
+    "expected_salary": "8 LPA",
+    "notice_period": "15 days",
+    "personality": "open to startups"
+  },
+  {
+    "name": "John Kline",
+    "skills": [
+      "TensorFlow",
+      "Python",
+      "NumPy",
+      "Machine Learning",
+      "NLP"
+    ],
+    "experience": 0,
+    "role": "Data Scientist",
+    "location": "Mumbai",
+    "expected_salary": "6 LPA",
+    "notice_period": "15 days",
+    "personality": "growth-focused"
+  },
+  {
+    "name": "Gina Johnson",
+    "skills": [
+      "Kubernetes",
+      "Java",
+      "Docker",
+      "Microservices",
+      "OOP"
+    ],
+    "experience": 2,
+    "role": "Software Engineer",
+    "location": "Pune",
+    "expected_salary": "6 LPA",
+    "notice_period": "30 days",
+    "personality": "growth-focused"
+  },
+  {
+    "name": "Phyllis Weaver",
+    "skills": [
+      "Docker",
+      "Spring Boot",
+      "C++",
+      "Kubernetes",
+      "Microservices"
+    ],
+    "experience": 5,
+    "role": "Software Engineer",
+    "location": "Hyderabad",
+    "expected_salary": "12 LPA",
+    "notice_period": "15 days",
+    "personality": "seeks high salary"
+  },
+  {
+    "name": "Cynthia Martin",
+    "skills": [
+      "Power BI",
+      "Excel",
+      "Financial Modeling",
+      "Forecasting",
+      "SQL"
+    ],
+    "experience": 5,
+    "role": "Data Scientist",
+    "location": "Hyderabad",
+    "expected_salary": "12 LPA",
+    "notice_period": "60 days",
+    "personality": "growth-focused"
+  },
+  {
+    "name": "Lisa Cooper",
+    "skills": [
+      "Power BI",
+      "Risk Analysis",
+      "Forecasting",
+      "Accounting",
+      "Budgeting"
+    ],
+    "experience": 1,
+    "role": "Financial Analyst",
+    "location": "Mumbai",
+    "expected_salary": "6 LPA",
+    "notice_period": "60 days",
+    "personality": "seeks high salary"
+  },
+  {
+    "name": "Jonathan Williams",
+    "skills": [
+      "NumPy",
+      "Scikit-learn",
+      "SQL",
+      "Data Visualization",
+      "TensorFlow"
+    ],
+    "experience": 7,
+    "role": "Data Scientist",
+    "location": "Mumbai",
+    "expected_salary": "12 LPA",
+    "notice_period": "15 days",
+    "personality": "seeks high salary"
+  },
+  {
+  "name": "Rohit Malhotra",
+  "skills": ["Recruitment", "HR Operations", "Employee Engagement"],
+  "experience": 5,
+  "role": "HR Executive",
+  "location": "Delhi",
+  "expected_salary": "9 LPA",
+  "notice_period": "30 days",
+  "personality": "people-oriented, prefers HR roles"
+  },
+  {
+  "name": "Sneha Kulkarni",
+  "skills": ["Excel", "SQL", "Business Analysis"],
+  "experience": 2,
+  "role": "Business Analyst",
+  "location": "Pune",
+  "expected_salary": "7 LPA",
+  "notice_period": "15 days",
+  "personality": "analytical, open to data roles"
+  }
+]
